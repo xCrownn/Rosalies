@@ -1,0 +1,14 @@
+name: Rosalies
+version: '${project.version}'
+main: me.xcrownn.rosalies.Rosalies
+api-version: 1.17
+authors: [ xCrownn ]
+website: https://xCrownn.xyz
+
+commands:
+  rpgive:
+    usage: </command>
+
+permissions:
+  RosaliesPlugin.GiveRose:
+    description: default perms
